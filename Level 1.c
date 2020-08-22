@@ -19,7 +19,7 @@ char main()
     	{
 		if(b>a) 
 		{
-			mx=b;
+			mi=b;
             	if(a>c) 
 				mi=c;
 			else mi=a;
